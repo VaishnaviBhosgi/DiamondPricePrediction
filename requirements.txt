@@ -1,0 +1,6 @@
+pandas
+numpy
+
+
+
+#-e . # when we run requirenments.txt,setup.py automatically get triggered
